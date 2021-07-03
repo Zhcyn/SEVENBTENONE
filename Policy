@@ -1,0 +1,5 @@
+An application to record users' daily physical fitness.
+Users only need to trust our app by opening our app, and our app will detect the user's physical condition.
+Of course, our application is still open, and the functions currently completed are only interface logic.
+Part of the data temporarily uses local data, but we want to build an app that looks very acceptable and must be pleasing to the eye. Therefore, we have made a lot of optimizations and adjustments in the UI design of the app. The current stage of the main test project The degree of optimization of each control on the home page and the elegance of the layout of the controls in the interface.
+If you encounter problems during the test, please contact me.
